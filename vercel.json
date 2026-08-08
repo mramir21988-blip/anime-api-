@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS" },
+        { "key": "Cache-Control", "value": "public, max-age=3600" }
+      ]
+    }
+  ],
+  "rewrites": [
+    { "source": "/api/slider", "destination": "/data/slider_only.json" },
+    { "source": "/api/index", "destination": "/data/anime_index.json" },
+    { "source": "/api/new-arrivals", "destination": "/data/section_new_arrivals.json" },
+    { "source": "/api/most-watched-films", "destination": "/data/section_most_watched_films.json" },
+    { "source": "/api/most-watched-series", "destination": "/data/section_most_watched_series.json" },
+    { "source": "/api/cartoon-films", "destination": "/data/section_cartoon_films.json" },
+    { "source": "/api/cartoon-series", "destination": "/data/section_cartoon_series.json" },
+    { "source": "/api/on-air", "destination": "/data/section_on_air_series.json" },
+    { "source": "/api/fresh-drops", "destination": "/data/section_fresh_drops.json" },
+    { "source": "/api/hindi-dubbed", "destination": "/data/hindi_dubbed.json" },
+    { "source": "/api/movies", "destination": "/data/type_movie.json" },
+    { "source": "/api/series", "destination": "/data/type_series.json" },
+    { "source": "/api/cartoons", "destination": "/data/all_cartoons.json" },
+    { "source": "/api/genres/:genre", "destination": "/data/genres/genre_:genre.json" },
+    { "source": "/api/anime-detail", "destination": "/data/anime-data.json" }
+  ]
+}
