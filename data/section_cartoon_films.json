@@ -1,0 +1,582 @@
+[
+  {
+    "id": "anime_1783591925570",
+    "title": "Pokémon Detective Pikachu",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+    "synopsis": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+    "rating": "6.91/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": false,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Action, Adventure, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9RUFluZ3pRNjQifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rVEpGaVc2YTkifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591926960",
+    "title": "Pokémon 4Ever",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w185/4Vafl9UF5oCiZYOl9q1hh1uZosR.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/gd4QYwQ6RRawjg2qWdYYTr4J01i.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/gd4QYwQ6RRawjg2qWdYYTr4J01i.jpg",
+    "synopsis": "In order to escape a greedy Pokémon hunter, Celebi must use the last of its energy to travel through time to the present day. Celebi brings along Sammy, a boy who had been trying to protect it. Along with Ash, Pikachu, and the rest of the gang, Sammy and Celebi must encounter an enemy far more advanced than the hunter, with the fate of the forest hanging in the balance.",
+    "rating": "6.48/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil",
+    "genres": "Adventure, Fantasy, Drama, Supernatural",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9TSEloT3RlYzgifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9lODRfenhnOWcifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVUNiNXJUSlFLIn1d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591930319",
+    "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w185/j9TIzeMxNknVrBvgxzLqhIhxml4.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/bQl46uhGPTu9jnIRE9Ip2xOMc9M.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/bQl46uhGPTu9jnIRE9Ip2xOMc9M.jpg",
+    "synopsis": "Ash meets the Mythical Pokémon Volcanion when it crashes down from the sky, creating a cloud of dust—and a mysterious force binds the two of them together! Volcanion despises humans and tries to get away, but it’s forced to drag Ash along as it continues its rescue mission. They arrive in a city of cogs and gears, where a corrupt official has stolen the ultimate invention: the Artificial Pokémon Magearna, created 500 years ago. He plans to use its mysterious power to take control of this mechanical kingdom! Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in Pokémon history is about to unfold!",
+    "rating": "6.75/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": false,
+    "langs": "Japanese",
+    "genres": "Action, Adventure, Fantasy, Drama",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0x0V3pLQjJMayJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Xb3hETFFiSnMifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591931101",
+    "title": "Pokémon the Movie: The Power of Us",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w185/kprIwOzdYLsjqkRyzD69SkFyv70.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/b1EKIjZWYAoC3WUk14012DX46Cb.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/b1EKIjZWYAoC3WUk14012DX46Cb.jpg",
+    "synopsis": "A young athlete whose running days might be behind her, a compulsive liar, a shy researcher, a bitter old woman, and a little girl with a big secret—the only thing they have in common is the annual Wind Festival in Fula City.  The festival celebrates the Legendary Pokémon Lugia, who brings the wind that powers this seaside city. When a series of threats endangers not just the festival, but all the people and Pokémon of Fula City, it’ll take more than just Satoshi and Pikachu to save the day! Can everyone put aside their differences and work together—or will it all end in destruction?",
+    "rating": "7.17/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Action, Adventure, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0xsdTFFMU1VMCJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC81MUZBWnVSLXIifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591934326",
+    "title": "Miraculous World: Shanghai – The Legend of Ladydragon",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+    "synopsis": "On school break, Marinette heads to Shanghai to meet Adrien. But after arriving, Marinette loses all her stuff, including the Miraculous that allows her to turn into Ladybug!",
+    "rating": "7.91/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Action, Adventure, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/8dc5983b8c4ef1d8fcd5f325f9a65511",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rT1htbDd4ZGUifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9iWDJvbXJnYWsifV0=",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591931897",
+    "title": "Pokémon Ranger and the Temple of the Sea",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/fj9aVJP9bZGkB7NResSauAAImr0.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/yLJeOFvP0DidEqkoSSrQFQh8J47.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/yLJeOFvP0DidEqkoSSrQFQh8J47.jpg",
+    "synopsis": "On their way through the Battle Frontier, Ash and friends meet up with a Pokémon Ranger who's mission is to deliever the egg of Manaphy to a temple on the ocean's floor. However, a greedy pirate wants the power of Manaphy to himself.",
+    "rating": "6.49/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Japanese",
+    "genres": "Action, Adventure, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL1pLek12WmwwcCJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9HOTRfa0ZhcncifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591932667",
+    "title": "Pokémon the Movie: I Choose You!",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/jLS805N4QmLVPurQwuaCFTNEZss.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/jLS805N4QmLVPurQwuaCFTNEZss.jpg",
+    "synopsis": "Ash Ketchum wakes up late one morning after having broken his alarm clock in his sleep. He eventually makes it to Professor Oak's lab, but is told that the three starter List of Pokémon (Bulbasaur, Squirtle, and Charmander) have already been taken by Trainers who were on time. However, Oak reveals that he has one more Pokémon, an Electric-type named Pikachu. Despite its volatile and feisty personality, as well as its refusal to get inside a Poké Ball, Ash happily takes Pikachu for his journey.",
+    "rating": "7.08/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": false,
+    "langs": "Japanese",
+    "genres": "Action, Adventure, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3pKVFEydHMyYyJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9hY0Z5aE5wc1YifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591888252",
+    "title": "Shinchan: Pursuit of the Balls of Darkness",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/8NlnDeZtscTjOEFTzDRZzI2vIXJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/ubpleh5Oj6ymlZsGUGo77hOKXXR.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/ubpleh5Oj6ymlZsGUGo77hOKXXR.jpg",
+    "synopsis": "The Noharas get caught between two rival clans when Himawari swallows a pretty bead that turns out to be a mysterious ball with hidden powers.",
+    "rating": "7.21/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese",
+    "genres": "Shonen, Action, Dark Fantasy, Drama, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/ce758408f6ef98d7c7a7b786eca7b3a8",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9fSGs3MEdoa0IifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvODMzYXZuY21SRyJ9XQ==",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591889064",
+    "title": "Ben 10 Alien Swarm",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/wROzAzrcSsRTu1fQQu2QdaUER2X.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/oK190JudMVb0C5773Vab0TKcBbv.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/oK190JudMVb0C5773Vab0TKcBbv.jpg",
+    "synopsis": "Ben and a mysterious girl from his past must prevent an alien threat from destroying the world.",
+    "rating": "6.2/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Seinen, Action, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9EdGhkTF9KV1YifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9qeDJKcGhndWUifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591889861",
+    "title": "Ben 10: Destroy All Aliens",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/qoILNllyC6YXHyT4V9YOhMJlPuO.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/eB1l1IDP1oYmfopTTZIADduLuDg.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/eB1l1IDP1oYmfopTTZIADduLuDg.jpg",
+    "synopsis": "Based on the original animated series Ben 10.  Ben becomes targeted by an evil Mechamorph Warrior, named \"Retaliator,\" who mistakenly blames Ben for something he did not do and attempts to destroy all aliens.",
+    "rating": "6.67/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Action, Fantasy, Drama, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8tdVdUM2FIWk8ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8yQXVxSTBUVVcifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591890642",
+    "title": "Ben 10: Race Against Time",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/fXGAMKFtm74TICGaSTCLGTvyBk4.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/mS7fLg1Yz7qPHFkwOds58LZAICG.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/mS7fLg1Yz7qPHFkwOds58LZAICG.jpg",
+    "synopsis": "Ben, Gwen, and Max must stop an extraterrestrial who plans to open a gateway that leads to an alien invasion.",
+    "rating": "5.9/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Shonen, Seinen, Action",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9YSGJsUnpZYmgifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9odWxZT0w4bzgifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591891455",
+    "title": "Ben 10: Secret of the Omnitrix",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/vPND6Qff1KVYAtjaQuZtij8wtAj.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/rLDD8pzbACRNIRHTrUqIrUU9Xyk.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/rLDD8pzbACRNIRHTrUqIrUU9Xyk.jpg",
+    "synopsis": "After a battle with Dr. Animo in a power plant, Ben notices something strange is happening with the Omnitrix but doesn't tell anyone. Tetrax arrives and tells them the Omnitrix is broadcasting a self-destruct signal. Tetrax and Ben go to find the creator of the Omnitrix to fix it before it destroys itself and the universe along with it. Gwen stows away to help her cousin.",
+    "rating": "7.4/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Action, Sci-Fi, Drama, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9yMWE4cko4TDYifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8xaEFxZHhFaXoifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591892314",
+    "title": "Miraculous World: New York United HeroeZ",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/2BZ7PC9aISswNXV2tugmjGiriaB.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/2BZ7PC9aISswNXV2tugmjGiriaB.jpg",
+    "synopsis": "Marinette's class is headed to New York, the city of superheroes, for French-American Friendship Week. But the arrival of Hawk Moth will complicate everything.",
+    "rating": "8.1/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Action, Adventure, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/321cf86b4c9f5ddd04881a44067c2a5a",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ZTjFWdTY4eDQifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9WV1JGQXpkMkIifV0=",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591893158",
+    "title": "Slugterra: Ghoul from Beyond",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/jPT77gSUa9yad7ysoB8R9RnuPfa.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/xBZ5KUG5UAvbtklMQYFcadUp7NF.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/xBZ5KUG5UAvbtklMQYFcadUp7NF.jpg",
+    "synopsis": "Just when the evil Dr. Blakk has been defeated and Eli Shane's duties as protector of Slugterra become easier, a new danger emerges from beyond the 99 caverns.",
+    "rating": "7.96/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Shonen, Seinen, Action, Adventure, Fantasy, Dark Fantasy, Sci-Fi",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/339a18def9898dd60a634b2ad8fbbd58",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9jbm9pd21TZ3oifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9fQ0pudHVPZWsifV0=",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591893970",
+    "title": "Slugterra: Into The Shadows",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/fwcdoV9qBpEorDlCtqO6RFLIXtA.jpg",
+    "banner": "https://image.tmdb.org/t/p/w185/fwcdoV9qBpEorDlCtqO6RFLIXtA.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w185/fwcdoV9qBpEorDlCtqO6RFLIXtA.jpg",
+    "synopsis": "An escalating dispute with the Shadow Clan, a newcomer from the Surface, and all the usual thugs-Eli and the Shane Gang have their hands full from the moment they return home from the Eastern Caverns.",
+    "rating": "6.0/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": false,
+    "langs": "Hindi, English",
+    "genres": "Action, Adventure, Fantasy, Sci-Fi",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/d756d3d2b9dac72449a6a6926534558a",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9wOWdLQmc4ZHRoIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWkU4V2RDc2FXIn1d",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591894514",
+    "title": "The Adventures of Tintin",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/mKYkNro2btaWMsnYSuyqrBdHQo3.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/6mqgl2szMLRYj4lhlXOjju5Tpeo.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/6mqgl2szMLRYj4lhlXOjju5Tpeo.jpg",
+    "synopsis": "Travel with Tintin, the young and intrepid Belgian reporter, and his faithful dog Snowy as they take you from Tibet to the Moon, or from Egypt to the depths of the sea -- solving mysteries, pursuing truth and justice, and gambling with their lives.",
+    "rating": "7.95/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": false,
+    "langs": "Hindi, English, Tamil, Telugu",
+    "genres": "Action, Adventure, Mystery",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/d3fad7d3634dbfb61018813546edbccb",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9fNmhqN1dXeFEifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTHR1SENIblcxIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUFptdzlzTlJ0In1d",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591895420",
+    "title": "Slugterra: Slug Fu Showdown",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/9IrfRT8stzY3xh9y0SEBraNhm3E.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/d699ZoTI5OUnhtTLIlzom2hh8fo.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/d699ZoTI5OUnhtTLIlzom2hh8fo.jpg",
+    "synopsis": "Eli has added some awesome new slugs to his arsenal: the extremely powerful Elemental Slugs. But in order to control them, Eli must learn Slug Fu -- the ancient form of slugslinging that Junjie mastered in the Eastern Caverns.",
+    "rating": "6.6/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Action, Adventure, Fantasy, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/a431d70133ef6cf688bc4f6093922b48",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9jV1FNMEpScUkifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pLXpHQ0t3RTYifV0=",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591896217",
+    "title": "The SpongeBob SquarePants Movie",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/emPZBVygYwLTB9JbWqzXU1rKk1L.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/emPZBVygYwLTB9JbWqzXU1rKk1L.jpg",
+    "synopsis": "There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it looks like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.",
+    "rating": "7.09/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English, Tamil, Telugu",
+    "genres": "Adventure, Fantasy, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/880610aa9f9de9ea7c545169c716f477",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9YOENhaUExcTUifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUmRjdU1JU3A2UCJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbjd0cWRMQnk3In0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUXlLVVNYOXFMIn1d",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591897827",
+    "title": "Transformers Prime: Beast Hunters - Predacons Rising",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/4T4pQqr2RoVgWQYtIzDGMByktwq.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/t0zmLLLDBEw7lS5xKuHRnjra5qn.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/t0zmLLLDBEw7lS5xKuHRnjra5qn.jpg",
+    "synopsis": "Autobots, Decepticons, Predaking and Predacons form an unlikely alliance to battle a resurrected Unicron.",
+    "rating": "7.99/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Action, Adventure, Sci-Fi, Drama",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/6403675579f6114559c90de0014cd3d6",
+          "server2": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC84TXk5aWt6c3AifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9hM0JvVEkzWWcifV0=",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "anime_1783591898639",
+    "title": "Ben 10 vs. the Universe: The Movie",
+    "type": "Cartoon Film",
+    "img": "https://image.tmdb.org/t/p/w185/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/w9vIb69U3rCNrpktTL8a89Meomf.jpg",
+    "mobileBanner": "https://image.tmdb.org/t/p/w1280/w9vIb69U3rCNrpktTL8a89Meomf.jpg",
+    "synopsis": "A blast from Ben's past returns to do double the damage on Team Tennyson and planet Earth itself, forcing Ben to go interstellar to save the day. Based on the 2016 reboot.",
+    "rating": "7.5/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "cartoon-films",
+    "inSlider": false,
+    "langs": "Hindi, English",
+    "genres": "Action, Adventure, Fantasy, Comedy, Cartoon",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://codecryptic.net/player/multi-lang-plyr.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9YaGNXRGdZcVcifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9LdEZPdlQ3QUMifV0=",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  }
+]
